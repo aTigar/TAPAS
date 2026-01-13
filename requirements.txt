@@ -1,0 +1,5 @@
+google-api-python-client
+google-api-core
+google-auth-oauthlib
+
+pandas
